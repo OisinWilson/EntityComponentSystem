@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\recycled sloth\desktop\ecs\healthsystem.h(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\healthsystem.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\healthsystem.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\rendersystem.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\rendersystem.h(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\aisystem.h(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\aisystem.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\controlsystem.h(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\recycled sloth\desktop\ecs\controlsystem.h(30): warning C4018: '<': signed/unsigned mismatch
+  Ecs.vcxproj -> C:\Users\Recycled Sloth\Desktop\Ecs\Debug\Ecs.exe
